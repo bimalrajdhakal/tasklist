@@ -1,3 +1,3 @@
 # tasklist
-This is a simple JavaScript project 
+This is a simple
 JavaScript Task List Web App using DOM Manipulation
